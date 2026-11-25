@@ -14,6 +14,7 @@ Rule-driven, non-AI tabular verification & pre-submission research **Source Data
 ## Public Open-Science Companion Repository · 开源核查清单仓
 
 - [`datacheck-cc/datacheck-research-data-checklist`](https://github.com/datacheck-cc/datacheck-research-data-checklist) — MIT-licensed five-step pre-submission Source Data checklist, synthetic cross-sheet duplicate examples, and reproducible review record templates (contains zero proprietary product source code or user data).
+- **Zenodo Permanent DOI Archive · 学术永久归档：** <https://doi.org/10.5281/zenodo.24524868>
 
 ## Verification Boundaries · 使用边界
 
